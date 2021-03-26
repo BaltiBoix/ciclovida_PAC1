@@ -10,3 +10,5 @@ https://es.statista.com/estadisticas/877343/monumentos-y-lugares-patrimonio-de-l
 https://viajes.nationalgeographic.com.es/a/sitios-patrimonio-humanidad-espana_13602
 https://whc.unesco.org/es/list/
 https://whc.unesco.org/en/syndication
+
+This article uses material from the Wikipedia article <a href="https://es.wikipedia.org/wiki/Anexo:Patrimonio_de_la_Humanidad_en_España">"Anexo:Patrimonio de la Humanidad en España"</a>, which is released under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share-Alike License 3.0</a>.
