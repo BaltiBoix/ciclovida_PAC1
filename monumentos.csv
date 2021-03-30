@@ -1,151 +1,125 @@
-tipo,año,nombre,localización
-Bien cultural,1984,Alhambra,Andalucía
-Bien cultural,1984,Generalife,Andalucía
-Bien cultural,1984,Albaicín,Andalucía
-Bien cultural,1994,Alhambra,Andalucía
-Bien cultural,1994,Generalife,Andalucía
-Bien cultural,1994,Albaicín,Andalucía
-Bien cultural,1984,Catedral de Burgos,Castilla y León
-Bien cultural,2014,Catedral de Burgos,Castilla y León
-Bien cultural,1984,Centro histórico de Córdoba,Andalucía
-Bien cultural,1994,Centro histórico de Córdoba,Andalucía
+tipo,aÃ±o,nombre,localizaciÃ³n
+Bien cultural,1984,"Alhambra, Generalife y AlbaicÃ­n de Granada",AndalucÃ­a
+Bien cultural,1994,"Alhambra, Generalife y AlbaicÃ­n de Granada",AndalucÃ­a
+Bien cultural,1984,Catedral de Burgos,Castilla y LeÃ³n
+Bien cultural,2014,Catedral de Burgos,Castilla y LeÃ³n
+Bien cultural,1984,Centro histÃ³rico de CÃ³rdoba,AndalucÃ­a
+Bien cultural,1994,Centro histÃ³rico de CÃ³rdoba,AndalucÃ­a
 Bien cultural,1984,Monasterio y Sitio de El Escorial,Comunidad de Madrid
-Bien cultural,1984,Obras de Antoni Gaudí,Cataluña
-Bien cultural,2005,Obras de Antoni Gaudí,Cataluña
-Bien cultural,1985,Casco antiguo de Ávila e iglesias extramuros,Castilla y León
-Bien cultural,2007,Casco antiguo de Ávila e iglesias extramuros,Castilla y León
+Bien cultural,1984,Obras de Antoni GaudÃ­,CataluÃ±a
+Bien cultural,2005,Obras de Antoni GaudÃ­,CataluÃ±a
+Bien cultural,1985,Casco antiguo de Ãvila e iglesias extramuros,Castilla y LeÃ³n
+Bien cultural,2007,Casco antiguo de Ãvila e iglesias extramuros,Castilla y LeÃ³n
 Bien cultural,1985,Ciudad vieja de Santiago de Compostela,Galicia
-Bien cultural,1985,Ciudad vieja,Castilla y León
-Bien cultural,1985,acueducto de Segovia,Castilla y León
-Bien cultural,1985,Cueva de Altamira y arte rupestre paleolítico del norte de España,Cantabria
-Bien cultural,1985,Cueva de Altamira y arte rupestre paleolítico del norte de España,Asturias
-Bien cultural,1985,Cueva de Altamira y arte rupestre paleolítico del norte de España,País Vasco
-Bien cultural,2008,Cueva de Altamira y arte rupestre paleolítico del norte de España,Cantabria
-Bien cultural,2008,Cueva de Altamira y arte rupestre paleolítico del norte de España,Asturias
-Bien cultural,2008,Cueva de Altamira y arte rupestre paleolítico del norte de España,País Vasco
+Bien cultural,1985,Ciudad vieja y acueducto de Segovia,Castilla y LeÃ³n
+Bien cultural,1985,Cueva de Altamira y arte rupestre paleolÃ­tico del norte de EspaÃ±a,Cantabria
+Bien cultural,1985,Cueva de Altamira y arte rupestre paleolÃ­tico del norte de EspaÃ±a,Asturias
+Bien cultural,1985,Cueva de Altamira y arte rupestre paleolÃ­tico del norte de EspaÃ±a,PaÃ­s Vasco
+Bien cultural,2008,Cueva de Altamira y arte rupestre paleolÃ­tico del norte de EspaÃ±a,Cantabria
+Bien cultural,2008,Cueva de Altamira y arte rupestre paleolÃ­tico del norte de EspaÃ±a,Asturias
+Bien cultural,2008,Cueva de Altamira y arte rupestre paleolÃ­tico del norte de EspaÃ±a,PaÃ­s Vasco
 Bien cultural,1985,Monumentos de Oviedo y del Reino de Asturias,Asturias
 Bien cultural,1998,Monumentos de Oviedo y del Reino de Asturias,Asturias
-Bien cultural,1986,Arquitectura mudéjar de Aragón,Aragón
-Bien cultural,2001,Arquitectura mudéjar de Aragón,Aragón
-Bien cultural,1986,Ciudad vieja de Cáceres,Extremadura
-Bien cultural,1986,Ciudad histórica de Toledo,Castilla-La Mancha
+Bien cultural,1986,Arquitectura mudÃ©jar de AragÃ³n,AragÃ³n
+Bien cultural,2001,Arquitectura mudÃ©jar de AragÃ³n,AragÃ³n
+Bien cultural,1986,Ciudad vieja de CÃ¡ceres,Extremadura
+Bien cultural,1986,Ciudad histÃ³rica de Toledo,Castilla-La Mancha
 Bien natural,1986,Parque Nacional de Garajonay,Canarias
-Bien cultural,1987,Catedral,Andalucía
-Bien cultural,1987,Alcázar,Andalucía
-Bien cultural,1987,Archivo de Indias,Andalucía
-Bien cultural,1987,Sevilla,Andalucía
-Bien cultural,1988,Ciudad vieja de Salamanca,Castilla y León
-Bien cultural,1991,Monasterio de Poblet,Cataluña
-Bien cultural,1993,Conjunto arqueológico de Mérida,Extremadura
-Bien cultural,1993,Caminos de Santiago de Compostela: Camino francés y Caminos del Norte de España,Aragón
-Bien cultural,1993,Caminos de Santiago de Compostela: Camino francés y Caminos del Norte de España,Castilla y León
-Bien cultural,1993,Caminos de Santiago de Compostela: Camino francés y Caminos del Norte de España,Galicia
-Bien cultural,1993,Caminos de Santiago de Compostela: Camino francés y Caminos del Norte de España,La Rioja
-Bien cultural,1993,Caminos de Santiago de Compostela: Camino francés y Caminos del Norte de España,País Vasco
-Bien cultural,1993,Caminos de Santiago de Compostela: Camino francés y Caminos del Norte de España,Cantabria
-Bien cultural,1993,Caminos de Santiago de Compostela: Camino francés y Caminos del Norte de España,Asturias
-Bien cultural,1993,Caminos de Santiago de Compostela: Camino francés y Caminos del Norte de España,Navarra
-Bien cultural,2015,Caminos de Santiago de Compostela: Camino francés y Caminos del Norte de España,Aragón
-Bien cultural,2015,Caminos de Santiago de Compostela: Camino francés y Caminos del Norte de España,Castilla y León
-Bien cultural,2015,Caminos de Santiago de Compostela: Camino francés y Caminos del Norte de España,Galicia
-Bien cultural,2015,Caminos de Santiago de Compostela: Camino francés y Caminos del Norte de España,La Rioja
-Bien cultural,2015,Caminos de Santiago de Compostela: Camino francés y Caminos del Norte de España,País Vasco
-Bien cultural,2015,Caminos de Santiago de Compostela: Camino francés y Caminos del Norte de España,Cantabria
-Bien cultural,2015,Caminos de Santiago de Compostela: Camino francés y Caminos del Norte de España,Asturias
-Bien cultural,2015,Caminos de Santiago de Compostela: Camino francés y Caminos del Norte de España,Navarra
-Bien cultural,1993,Real Monasterio de Santa María de Guadalupe,Extremadura
-Bien natural,1994,Parque Nacional de Doñana,Andalucía
-Bien natural,2005,Parque Nacional de Doñana,Andalucía
-Bien cultural,1996,Ciudad histórica fortificada de Cuenca,Castilla-La Mancha
+Bien cultural,1987,"Catedral, AlcÃ¡zar y Archivo de Indias en Sevilla",AndalucÃ­a
+Bien cultural,1988,Ciudad vieja de Salamanca,Castilla y LeÃ³n
+Bien cultural,1991,Monasterio de Poblet,CataluÃ±a
+Bien cultural,1993,Conjunto arqueolÃ³gico de MÃ©rida,Extremadura
+Bien cultural,1993,Caminos de Santiago de Compostela: Camino francÃ©s y Caminos del Norte de EspaÃ±a,AragÃ³n
+Bien cultural,1993,Caminos de Santiago de Compostela: Camino francÃ©s y Caminos del Norte de EspaÃ±a,Castilla y LeÃ³n
+Bien cultural,1993,Caminos de Santiago de Compostela: Camino francÃ©s y Caminos del Norte de EspaÃ±a,Galicia
+Bien cultural,1993,Caminos de Santiago de Compostela: Camino francÃ©s y Caminos del Norte de EspaÃ±a,La Rioja
+Bien cultural,1993,Caminos de Santiago de Compostela: Camino francÃ©s y Caminos del Norte de EspaÃ±a,PaÃ­s Vasco
+Bien cultural,1993,Caminos de Santiago de Compostela: Camino francÃ©s y Caminos del Norte de EspaÃ±a,Cantabria
+Bien cultural,1993,Caminos de Santiago de Compostela: Camino francÃ©s y Caminos del Norte de EspaÃ±a,Asturias
+Bien cultural,1993,Caminos de Santiago de Compostela: Camino francÃ©s y Caminos del Norte de EspaÃ±a,Navarra
+Bien cultural,2015,Caminos de Santiago de Compostela: Camino francÃ©s y Caminos del Norte de EspaÃ±a,AragÃ³n
+Bien cultural,2015,Caminos de Santiago de Compostela: Camino francÃ©s y Caminos del Norte de EspaÃ±a,Castilla y LeÃ³n
+Bien cultural,2015,Caminos de Santiago de Compostela: Camino francÃ©s y Caminos del Norte de EspaÃ±a,Galicia
+Bien cultural,2015,Caminos de Santiago de Compostela: Camino francÃ©s y Caminos del Norte de EspaÃ±a,La Rioja
+Bien cultural,2015,Caminos de Santiago de Compostela: Camino francÃ©s y Caminos del Norte de EspaÃ±a,PaÃ­s Vasco
+Bien cultural,2015,Caminos de Santiago de Compostela: Camino francÃ©s y Caminos del Norte de EspaÃ±a,Cantabria
+Bien cultural,2015,Caminos de Santiago de Compostela: Camino francÃ©s y Caminos del Norte de EspaÃ±a,Asturias
+Bien cultural,2015,Caminos de Santiago de Compostela: Camino francÃ©s y Caminos del Norte de EspaÃ±a,Navarra
+Bien cultural,1993,Real Monasterio de Santa MarÃ­a de Guadalupe,Extremadura
+Bien natural,1994,Parque Nacional de DoÃ±ana,AndalucÃ­a
+Bien natural,2005,Parque Nacional de DoÃ±ana,AndalucÃ­a
+Bien cultural,1996,Ciudad histÃ³rica fortificada de Cuenca,Castilla-La Mancha
 Bien cultural,1996,La Lonja de la Seda de Valencia,Comunidad Valenciana
-Bien cultural,1997,Las Médulas,Castilla y León
-Bien cultural,1997,San Millán de Yuso,La Rioja
-Bien cultural,1997,Suso,La Rioja
-Bien cultural,1997,Palau de la Música Catalana,Cataluña
-Bien cultural,1997,Hospital de Sant Pau,Cataluña
-Bien mixto,1997,Pirineos,Aragón
-Bien mixto,1997,Pirineos,Francia
-Bien mixto,1997,Monte Perdido,Aragón
-Bien mixto,1997,Monte Perdido,Francia
-Bien mixto,1999,Pirineos,Aragón
-Bien mixto,1999,Pirineos,Francia
-Bien mixto,1999,Monte Perdido,Aragón
-Bien mixto,1999,Monte Perdido,Francia
-Bien cultural,1998,Arte rupestre del arco mediterráneo de la península ibérica,Andalucía
-Bien cultural,1998,Arte rupestre del arco mediterráneo de la península ibérica,Aragón
-Bien cultural,1998,Arte rupestre del arco mediterráneo de la península ibérica,Castilla-La Mancha
-Bien cultural,1998,Arte rupestre del arco mediterráneo de la península ibérica,Cataluña
-Bien cultural,1998,Arte rupestre del arco mediterráneo de la península ibérica,Comunidad Valenciana
-Bien cultural,1998,Arte rupestre del arco mediterráneo de la península ibérica,Murcia
-Bien cultural,1998,Universidad,Madrid
-Bien cultural,1998,barrio histórico de Alcalá de Henares,Madrid
+Bien cultural,1997,Las MÃ©dulas,Castilla y LeÃ³n
+Bien cultural,1997,Monasterios de San MillÃ¡n de Yuso y de Suso,La Rioja
+Bien cultural,1997,Palau de la MÃºsica Catalana y Hospital de Sant Pau,CataluÃ±a
+Bien mixto,1997,Pirineos - Monte Perdido,AragÃ³n
+Bien mixto,1997,Pirineos - Monte Perdido,Francia
+Bien mixto,1999,Pirineos - Monte Perdido,AragÃ³n
+Bien mixto,1999,Pirineos - Monte Perdido,Francia
+Bien cultural,1998,Arte rupestre del arco mediterrÃ¡neo de la penÃ­nsula ibÃ©rica,AndalucÃ­a
+Bien cultural,1998,Arte rupestre del arco mediterrÃ¡neo de la penÃ­nsula ibÃ©rica,AragÃ³n
+Bien cultural,1998,Arte rupestre del arco mediterrÃ¡neo de la penÃ­nsula ibÃ©rica,Castilla-La Mancha
+Bien cultural,1998,Arte rupestre del arco mediterrÃ¡neo de la penÃ­nsula ibÃ©rica,CataluÃ±a
+Bien cultural,1998,Arte rupestre del arco mediterrÃ¡neo de la penÃ­nsula ibÃ©rica,Comunidad Valenciana
+Bien cultural,1998,Arte rupestre del arco mediterrÃ¡neo de la penÃ­nsula ibÃ©rica,Murcia
+Bien cultural,1998,Universidad y barrio histÃ³rico de AlcalÃ¡ de Henares,Madrid
 Bien mixto,1999,"Ibiza, biodiversidad y cultura",Baleares
-Bien cultural,1999,San Cristóbal de La Laguna,Canarias
-Bien cultural,2000,Conjunto arqueológico de Tarraco,Cataluña
-Bien cultural,2000,Iglesias románicas catalanas de la Vall de Boí,Cataluña
+Bien cultural,1999,San CristÃ³bal de La Laguna,Canarias
+Bien cultural,2000,Conjunto arqueolÃ³gico de Tarraco,CataluÃ±a
+Bien cultural,2000,Iglesias romÃ¡nicas catalanas de la Vall de BoÃ­,CataluÃ±a
 Bien cultural,2000,Muralla romana de Lugo,Galicia
 Bien cultural,2000,Palmeral de Elche,Comunidad Valenciana
-Bien cultural,2000,Yacimiento arqueológico de Atapuerca,Castilla y León
+Bien cultural,2000,Yacimiento arqueolÃ³gico de Atapuerca,Castilla y LeÃ³n
 Bien inmaterial,2001,Misterio de Elche,Comunidad Valenciana
 Bien cultural,2001,Paisaje cultural de Aranjuez,Madrid
-Bien cultural,2003,Úbeda,Andalucía
-Bien cultural,2003,Baeza,Andalucía
-Bien inmaterial,2005,Patum de Berga,Cataluña
-Bien cultural,2006,Puente de Vizcaya,País Vasco
+Bien cultural,2003,Conjuntos monumentales renacentistas de Ãšbeda y Baeza,AndalucÃ­a
+Bien inmaterial,2005,Patum de Berga,CataluÃ±a
+Bien cultural,2006,Puente de Vizcaya,PaÃ­s Vasco
 Bien natural,2007,Parque Nacional del Teide,Canarias
-Bien cultural,2009,Torre de Hércules,Galicia
+Bien cultural,2009,Torre de HÃ©rcules,Galicia
 Bien inmaterial,2009,Silbo gomero,Canarias
-Bien inmaterial,2009,Tribunales de regantes del Mediterráneo español,Murcia
-Bien inmaterial,2009,Tribunales de regantes del Mediterráneo español,Comunidad Valenciana
-Bien cultural,2010,Sitios de arte rupestre prehistórico del Valle del Coa y de Siega Verde,Castilla y León
-Bien cultural,2010,Sitios de arte rupestre prehistórico del Valle del Coa y de Siega Verde,Portugal
-Bien cultural,2010,Sitios de arte rupestre prehistórico del Valle del Coa y de Siega Verde,valle del Coa
-Bien inmaterial,2010,Canto de la Sibila,Baleares
-Bien inmaterial,2010,Mallorca,Baleares
-Bien inmaterial,2010,Flamenco,Andalucía
-Bien inmaterial,2010,Castells,Cataluña
-Bien inmaterial,2010,Dieta mediterránea,España
-Bien inmaterial,2010,Dieta mediterránea,Italia
-Bien inmaterial,2010,Dieta mediterránea,Francia
-Bien inmaterial,2010,Dieta mediterránea,Grecia
-Bien inmaterial,2010,Dieta mediterránea,Marruecos
-Bien inmaterial,2010,Dieta mediterránea,Portugal
-Bien inmaterial,2010,"Cetrería, patrimonio humano vivo",España
-Bien inmaterial,2010,"Cetrería, patrimonio humano vivo",Europa
-Bien inmaterial,2010,"Cetrería, patrimonio humano vivo",África
-Bien inmaterial,2010,"Cetrería, patrimonio humano vivo",Asia
+Bien inmaterial,2009,Tribunales de regantes del MediterrÃ¡neo espaÃ±ol,Murcia
+Bien inmaterial,2009,Tribunales de regantes del MediterrÃ¡neo espaÃ±ol,Comunidad Valenciana
+Bien cultural,2010,Sitios de arte rupestre prehistÃ³rico del Valle del Coa y de Siega Verde,Castilla y LeÃ³n
+Bien cultural,2010,Sitios de arte rupestre prehistÃ³rico del Valle del Coa y de Siega Verde,Portugal (valle del Coa)
+Bien inmaterial,2010,Canto de la Sibila de Mallorca,Baleares
+Bien inmaterial,2010,Flamenco,AndalucÃ­a
+Bien inmaterial,2010,Castells,CataluÃ±a
+Bien inmaterial,2010,Dieta mediterrÃ¡nea,EspaÃ±a
+Bien inmaterial,2010,Dieta mediterrÃ¡nea,Italia
+Bien inmaterial,2010,Dieta mediterrÃ¡nea,Francia
+Bien inmaterial,2010,Dieta mediterrÃ¡nea,Grecia
+Bien inmaterial,2010,Dieta mediterrÃ¡nea,Marruecos
+Bien inmaterial,2010,Dieta mediterrÃ¡nea,Portugal
+Bien inmaterial,2010,"CetrerÃ­a, patrimonio humano vivo",EspaÃ±a
+Bien inmaterial,2010,"CetrerÃ­a, patrimonio humano vivo","otros diez paÃ­ses en Europa, Ãfrica y Asia"
 Bien cultural,2011,Paisaje cultural de la Serra de Tramuntana,Baleares
-Bien inmaterial,2011,La fiesta de «la Mare de Déu de la Salut»,Comunidad Valenciana
-Bien inmaterial,2011,Algemesí,Comunidad Valenciana
-Bien cultural,2012,Patrimonio del mercurio,Castilla-La Mancha
-Bien cultural,2012,Patrimonio del mercurio,Eslovenia
-Bien cultural,2012,Almadén,Castilla-La Mancha
-Bien cultural,2012,Almadén,Eslovenia
-Bien cultural,2012,Idrija,Castilla-La Mancha
-Bien cultural,2012,Idrija,Eslovenia
-Bien inmaterial,2012,Festival de los Patios,Andalucía
-Bien inmaterial,2012,Córdoba,Andalucía
-Bien cultural,2016,Sitio de los Dólmenes de Antequera,Andalucía
+Bien inmaterial,2011,La fiesta de Â«la Mare de DÃ©u de la SalutÂ» de AlgemesÃ­,Comunidad Valenciana
+Bien cultural,2012,Patrimonio del mercurio (AlmadÃ©n e Idrija),Castilla-La Mancha
+Bien cultural,2012,Patrimonio del mercurio (AlmadÃ©n e Idrija),Eslovenia
+Bien inmaterial,2012,Festival de los Patios de CÃ³rdoba,AndalucÃ­a
+Bien cultural,2016,Sitio de los DÃ³lmenes de Antequera,AndalucÃ­a
 Bien inmaterial,2016,La fiesta de las Fallas de Valencia,Comunidad Valenciana
-Bien natural,2007,Hayedos primarios de los Cárpatos y otras regiones de Europa,Madrid
-Bien natural,2007,Hayedos primarios de los Cárpatos y otras regiones de Europa,Navarra
-Bien natural,2007,Hayedos primarios de los Cárpatos y otras regiones de Europa,Castilla-La Mancha
-Bien natural,2007,Hayedos primarios de los Cárpatos y otras regiones de Europa,Castilla y León
-Bien natural,2017,Hayedos primarios de los Cárpatos y otras regiones de Europa,Madrid
-Bien natural,2017,Hayedos primarios de los Cárpatos y otras regiones de Europa,Navarra
-Bien natural,2017,Hayedos primarios de los Cárpatos y otras regiones de Europa,Castilla-La Mancha
-Bien natural,2017,Hayedos primarios de los Cárpatos y otras regiones de Europa,Castilla y León
-Bien cultural,2018,Ciudad Califal de Medina Azahara,Andalucía
-Bien inmaterial,2018,Conocimientos y técnicas del arte de construir muros en piedra seca,España
-Bien inmaterial,2018,Conocimientos y técnicas del arte de construir muros en piedra seca,Croacia
-Bien inmaterial,2018,Conocimientos y técnicas del arte de construir muros en piedra seca,Chipre
-Bien inmaterial,2018,Conocimientos y técnicas del arte de construir muros en piedra seca,Francia
-Bien inmaterial,2018,Conocimientos y técnicas del arte de construir muros en piedra seca,Grecia
-Bien inmaterial,2018,Conocimientos y técnicas del arte de construir muros en piedra seca,Italia
-Bien inmaterial,2018,Conocimientos y técnicas del arte de construir muros en piedra seca,Eslovenia
-Bien inmaterial,2018,Conocimientos y técnicas del arte de construir muros en piedra seca,Suiza
-Bien inmaterial,2018,"Las Tamboradas, repiques rituales de Tambores",España
-Bien cultural,2019,Paisaje Cultural de Risco Caído y los Espacios Sagrados de Montaña de Gran Canaria,Canarias
-Bien inmaterial,2019,Procesos artesanales para la elaboración de la Talavera de Puebla y Tlaxcala (México) y de la cerámica de Talavera de la Reina y El Puente del Arzobispo (España),Castilla-La Mancha
-Bien inmaterial,2019,Procesos artesanales para la elaboración de la Talavera de Puebla y Tlaxcala (México) y de la cerámica de Talavera de la Reina y El Puente del Arzobispo (España),México
-Bien inmaterial,2020,Los Caballos del Vino,Región de Murcia
+Bien natural,2007,Hayedos primarios de los CÃ¡rpatos y otras regiones de Europa,Madrid
+Bien natural,2007,Hayedos primarios de los CÃ¡rpatos y otras regiones de Europa,Navarra
+Bien natural,2007,Hayedos primarios de los CÃ¡rpatos y otras regiones de Europa,Castilla-La Mancha
+Bien natural,2007,Hayedos primarios de los CÃ¡rpatos y otras regiones de Europa,Castilla y LeÃ³n
+Bien natural,2017,Hayedos primarios de los CÃ¡rpatos y otras regiones de Europa,Madrid
+Bien natural,2017,Hayedos primarios de los CÃ¡rpatos y otras regiones de Europa,Navarra
+Bien natural,2017,Hayedos primarios de los CÃ¡rpatos y otras regiones de Europa,Castilla-La Mancha
+Bien natural,2017,Hayedos primarios de los CÃ¡rpatos y otras regiones de Europa,Castilla y LeÃ³n
+Bien cultural,2018,Ciudad Califal de Medina Azahara,AndalucÃ­a
+Bien inmaterial,2018,Conocimientos y tÃ©cnicas del arte de construir muros en piedra seca,EspaÃ±a
+Bien inmaterial,2018,Conocimientos y tÃ©cnicas del arte de construir muros en piedra seca,Croacia
+Bien inmaterial,2018,Conocimientos y tÃ©cnicas del arte de construir muros en piedra seca,Chipre
+Bien inmaterial,2018,Conocimientos y tÃ©cnicas del arte de construir muros en piedra seca,Francia
+Bien inmaterial,2018,Conocimientos y tÃ©cnicas del arte de construir muros en piedra seca,Grecia
+Bien inmaterial,2018,Conocimientos y tÃ©cnicas del arte de construir muros en piedra seca,Italia
+Bien inmaterial,2018,Conocimientos y tÃ©cnicas del arte de construir muros en piedra seca,Eslovenia
+Bien inmaterial,2018,Conocimientos y tÃ©cnicas del arte de construir muros en piedra seca,Suiza
+Bien inmaterial,2018,"Las Tamboradas, repiques rituales de Tambores",EspaÃ±a
+Bien cultural,2019,Paisaje Cultural de Risco CaÃ­do y los Espacios Sagrados de MontaÃ±a de Gran Canaria,Canarias
+Bien inmaterial,2019,Procesos artesanales para la elaboraciÃ³n de la Talavera de Puebla y Tlaxcala (MÃ©xico) y de la cerÃ¡mica de Talavera de la Reina y El Puente del Arzobispo (EspaÃ±a),Castilla-La Mancha
+Bien inmaterial,2019,Procesos artesanales para la elaboraciÃ³n de la Talavera de Puebla y Tlaxcala (MÃ©xico) y de la cerÃ¡mica de Talavera de la Reina y El Puente del Arzobispo (EspaÃ±a),MÃ©xico
+Bien inmaterial,2020,Los Caballos del Vino,RegiÃ³n de Murcia
