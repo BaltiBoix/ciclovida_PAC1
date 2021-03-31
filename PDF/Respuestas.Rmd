@@ -67,4 +67,4 @@ Tanto el código en Python como el dataset en formato CSV (separado con ',') gen
 |----------------------------------|--------|
 | Investigación previa             |        | 
 | Redacción de las respuestas      |        |
-| Desarollo código                 |        |
+| Desarrollo código                 |        |
