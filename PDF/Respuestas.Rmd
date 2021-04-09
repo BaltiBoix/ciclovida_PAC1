@@ -48,7 +48,7 @@ Los datos han sido recogidos del Portal oficial de turismo de España , (https:/
 
 ## Agradecimientos
 
-Los datos han sido recolectados desde el [Portal oficial de turismo de España](https://www.spain.info/es/consulta/monumentos-historicos-espana/). Para ello, se ha hecho uso de técnicas de *Web Scraping* para extraer la información alojada en las páginas HTML mediante el uso del lenguaje de programación de Python.
+Los datos han sido recolectados desde el [Portal oficial de turismo de España](https://www.spain.info/es/consulta/monumentos-historicos-espana/). Para ello, se ha hecho uso de técnicas de *Web Scraping* para extraer la información alojada en las páginas HTML mediante el uso del lenguaje de programación de Python. Se ha comprobado en el fichero [robots.txt](https://www.spain.info/robots.txt) que no hay restricciones para extraer esta información.
 
 ## Inspiración
 
@@ -77,4 +77,4 @@ Tanto el código en Python como el dataset en formato CSV (separado con ',') gen
 |----------------------------------|-----------------------------|
 | Investigación previa             |Baltasar Boix  y Yago Ezcurra| 
 | Redacción de las respuestas      |Baltasar Boix  y Yago Ezcurra| 
-| Desarollo código                 |Baltasar Boix  y Yago Ezcurra| 
+| Desarrollo código                |Baltasar Boix  y Yago Ezcurra| 
