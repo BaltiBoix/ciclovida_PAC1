@@ -1,20 +1,19 @@
-# ciclovida_PAC1
-Repositorio para la PAC1 de asignatura Ciclo de vida de los datos UOC 2021
+# Práctica 1: Web scraping
 
-Leemos de la [Web Anexo:Patrimonio de la Humanidad en España. From Wikipedia retrieved March 26, 2021](https://es.wikipedia.org/wiki/Anexo:Patrimonio_de_la_Humanidad_en_España) el listado de los bienes materiales e inmateriales considerados por la UNESCO patrimonio de la humanidad (World Heritage) en España.  
+## Descripción
 
-El dataset en formato CSV [Monumentos.csv](https://github.com/BaltiBoix/ciclovida_PAC1/blob/master/monumentos.csv) tiene los siguientes campos:  
-  **Tipo**: Tipo de Bien cultural. Puede ser material o inmaterial.  
-  **Año**: Año en que a un Bien cultural fue declarado por la UNESCO Patrimonio de la Humanidad (World Heritage) o se modificó posteriormente. Un mismo bien puede constar con dos fechas.     
-  **Nombre**: Nombre o descripción corta del Bien.  
-  **Localización**: Comunidad Autónoma o País. Un mismo Bien puede estar asignado a varias localizaciones.    
+Esta práctica se ha realizado bajo el contexto de la asignatura _Tipología y ciclo de vida de los datos_, perteneciente al Máster en Ciencia de Datos de la Universitat Oberta de Catalunya. En ella, se aplican técnicas de _web scraping_ mediante el lenguaje de programación Python para extraer así los datos sobre los monumentos de España del _Portal oficial de turismo de España_ y generar un _dataset_.
 
-links de conjuntos de datos/webs relacionadas:
+## Miembros del equipo
 
-  https://www.epdata.es/datos/bienes-culturales-patrimonio-espana-datos-graficos/358
-  https://es.statista.com/estadisticas/877343/monumentos-y-lugares-patrimonio-de-la-humanidad-de-la-unesco-en-espana/
-  https://viajes.nationalgeographic.com.es/a/sitios-patrimonio-humanidad-espana_13602
-  https://whc.unesco.org/es/list/
-  https://whc.unesco.org/en/syndication
+La actividad ha sido realizada por **Baltasar Boix Rita** y **Yago Ezcurra González**.
 
-This article uses material from the Wikipedia article <a href="https://es.wikipedia.org/wiki/Anexo:Patrimonio_de_la_Humanidad_en_España">"Anexo:Patrimonio de la Humanidad en España"</a>, which is released under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share-Alike License 3.0</a>.
+## Ficheros del código fuente
+* **monumentos_espana.ipynb:** inicia el proceso de web scraping y genera la base de datos con los monumentos.
+* **Mapa_monumentos.ipynb:** aplicación que se alimenta de la base de datos de monumentos para generar mapas turísticos.
+
+## Dataset
+A coninuación, se presenta el DOI del dataset.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4672497.svg)](https://doi.org/10.5281/zenodo.4672497)
+
